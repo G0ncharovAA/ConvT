@@ -21,3 +21,5 @@ https://rapidapi.com/warting/api/currency-converter?endpoint=53aa3531e4b0f2c9754
  Выполнено на языке Kotlin по шаблону MVP c использованием внедрения зависимостей.(Retrofit, rxJava, Dagger, Moxy)
  API https://rapidapi.com/warting/api/currency-converter?endpoint=53aa3531e4b0f2c97546f029 окозался недоступным, поэтому здесь
  используется этот API:  https://free.currconv.com/
+
+Для выполнения этого задания потребовалось затратить время и приложить усилия. Поэтому я прошу Вас прокомментировать, посоветовать, что  могло бы быть сделано лучше; как было бы сделать лучше
